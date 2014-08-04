@@ -1,4 +1,4 @@
-bbs_crawler_utility
+<h1> bbs_crawler_utility </h1>
 ===================
 
 This prog is to fetch the ptt's content based on the board name like car 
@@ -6,7 +6,7 @@ This prog is to fetch the ptt's content based on the board name like car
 
 
 
-Example Usage:
+<h2> Example Usage:</h2>
 
   bbs_crawler_public.exe [OPTIONS] ptt's board_name index_number
   
