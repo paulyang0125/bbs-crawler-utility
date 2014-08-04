@@ -27,3 +27,5 @@ example:
   run bbs_crawler_public.py with fetch_page plus the designated end of index number like the following - iterate from 
   index 1 to index 6
   $python bbs_crawler_public.py -c fetch_page car 6 
+
+  if you do not install python and use Windows OS, use bbs_crawler_public.exe instead of bbs_crawler_public.py to run the    examples above 
