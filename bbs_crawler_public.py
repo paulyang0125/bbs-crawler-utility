@@ -30,7 +30,7 @@ VERSION = '0.2'
 class BBSCrawler(object):
     '''
     @author: Paul Yang
-    @note: This is to featch the ptt's content based on input board name and the fetched files will be stored under the directory "./fetched/BOARDNAME/"
+    @note: This prog is to fetch the ptt's content based on the board name like car  and the fetched files will be stored under the directory "./fetched/BOARDNAME/"
     @since: 2014/8/2, v0.2
     '''
 
