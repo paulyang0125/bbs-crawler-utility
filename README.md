@@ -28,4 +28,9 @@ example:
   index 1 to index 6
   $python bbs_crawler_public.py -c fetch_page car 6 
 
-  if you do not install python and use Windows OS, use bbs_crawler_public.exe instead of bbs_crawler_public.py to run the    examples above 
+  if you do not install python and use Windows OS, use bbs_crawler_public.exe instead of bbs_crawler_public.py to run the examples above 
+  
+  For more info, there's the blog in Chinese explain what and how it works. 
+  抓取批踢踢 (Ptt) post文的crawler實作 - http://paulyang0125.blogspot.com/2014/08/ptt-postcrawler.html
+  
+  
