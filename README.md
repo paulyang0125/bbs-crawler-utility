@@ -29,6 +29,6 @@ or
 if you do not install python and use Windows OS, use bbs_crawler_public.exe instead of bbs_crawler_public.py to run the examples above 
   
   
-For more info, here is [my blog - 抓取批踢踢 (Ptt) post文的crawler實作](http://paulyang0125.blogspot.com/2014/08/ptt-postcrawler.html) in Chinese to explain what and how it works. 
+>For more info, here is [my blog - 抓取批踢踢 (Ptt) post文的crawler實作](http://paulyang0125.blogspot.com/2014/08/ptt-postcrawler.html) in Chinese to explain what and how it works. 
   
   
